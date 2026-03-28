@@ -2,7 +2,7 @@
 
 **Caption.** Each task was evaluated over 10 episodes. On heterogeneous multi-task datasets, different tasks learn distinct prompt lengths and τ values, which help improve inference-time trajectory stitching while mitigating out-of-distribution (OOD) issues.
 
-| Environment | Prompt Length | Tau | Success Rate |
+| Environment | Prompt Length | /Tau | Success Rate |
 |---|---:|---:|---:|
 | basketball-v2 | 38 | 0.647060 | 1.0 |
 | bin-picking-v2 | 25 | 0.731074 | 1.0 |
